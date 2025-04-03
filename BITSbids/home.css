@@ -1,0 +1,93 @@
+.image {
+    width: 815px;
+    height: 1225px;
+  }
+  
+  .image .pexels-miguel-padrin {
+    position: fixed;
+    width: 414px;
+    height: 896px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+
+  .header {
+    position: relative;
+    width: 386px;
+    height: 50px;
+  }
+  
+  .header .text-wrapper {
+    position: absolute;
+    top: 16px;
+    left: 151px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: normal;
+  }
+  
+  .header .icon {
+    position: absolute;
+    width: 23px;
+    height: 17px;
+    top: 16px;
+    left: 0;
+  }
+
+  .label {
+    width: 84px;
+    height: 24px;
+  }
+  
+  .label .text-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: normal;
+  }
+
+  
+  .box {
+    width: 22px;
+    height: 17px;
+  }
+  
+  .box .icon {
+    position: fixed;
+    width: 23px;
+    height: 17px;
+    top: 0;
+    left: 0;
+  }
+
+  .label {
+    width: 357px;
+    height: 167px;
+  }
+  
+  .label .auction-app {
+    position: fixed;
+    width: 357px;
+    top: 0;
+    left: 0;
+    font-family: "Poppins-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: 65.7px;
+    text-decoration: underline;
+  }
+  
